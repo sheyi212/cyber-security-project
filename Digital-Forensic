@@ -1,0 +1,23 @@
+# USB Device Investigation
+
+Objective
+
+Investigate activity from a USB drive.
+
+Evidence
+
+Windows Event Logs
+
+Registry
+
+Timeline
+
+Findings
+
+USB connected
+
+Files copied
+
+Recommendations
+
+Restrict unauthorized USB devices.
